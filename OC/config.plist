@@ -236,6 +236,8 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
+				<key>device-id</key>
+				<data>kj4AAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -592,8 +594,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
